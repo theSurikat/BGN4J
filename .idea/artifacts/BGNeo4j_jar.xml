@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="BGNeo4j:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BGNeo4j_jar</output-path>
+    <root id="root">
+      <element id="archive" name="BGNeo4j.jar">
+        <element id="module-output" name="BGNeo4j" />
+      </element>
+      <element id="library" level="project" name="neo4j" />
+    </root>
+  </artifact>
+</component>
